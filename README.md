@@ -22,3 +22,7 @@ GameTeam (跑關表產生器)
 演算法
 ---
 使用Backtracking
+
+參考資料
+---
+- https://github.com/ensky/GroundGame-scheduler
